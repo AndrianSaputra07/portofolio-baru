@@ -80,8 +80,8 @@
             <div class="mt-10 max-w-2xl">
 
                 <p class="text-base leading-7 text-zinc-400">
-                    Saya membangun website dan aplikasi yang fungsional,
-                    sederhana, dan memiliki pengalaman pengguna yang baik.
+                    Saya mengembangkan website dan aplikasi dengan mengutamakan fungsionalitas,
+                    tampilan yang responsif, serta pengalaman pengguna yang nyaman.
                 </p>
 
                 <div class="mt-8 flex flex-wrap gap-4">
@@ -96,7 +96,7 @@
 
                     <!-- Download CV -->
                     <a
-                        href="{{ asset('cv/CV-Muhammad-Andrian-Saputra.pdf') }}"
+                        href="{{ asset('cv/Muhammad_Andrian_Saputra_CV.pdf') }}"
                         download="CV-Muhammad-Andrian-Saputra.pdf"
                         class="rounded-full border border-zinc-800 px-5 py-3 text-sm text-zinc-300 transition hover:border-zinc-600 hover:text-white"
                     >
@@ -122,7 +122,7 @@
         <div class="flex justify-center lg:col-span-4 lg:justify-end">
 
             <img
-                src="{{ asset('images/profile.jpg') }}"
+                src="{{ asset('images/profile.jpeg') }}"
                 alt="Muhammad Andrian Saputra"
                 class="h-[420px] w-[320px] rounded-2xl border border-zinc-800 object-cover grayscale transition duration-500 hover:grayscale-0"
             >
@@ -152,15 +152,15 @@
                     <h2
                         class="max-w-3xl text-3xl font-medium leading-tight tracking-tight text-white md:text-5xl"
                     >
-                        Seorang pelajar yang tertarik pada teknologi,
-                        pengembangan web, dan membangun produk digital.
+                        Pelajar yang berfokus pada teknologi dan pengembangan web,
+                        dengan ketertarikan dalam membangun produk digital yang relevan dan mudah digunakan.
                     </h2>
 
                     <p class="mt-8 max-w-2xl leading-7 text-zinc-400">
-                        Saya terus mengembangkan kemampuan melalui pembelajaran,
-                        eksplorasi teknologi, dan membangun berbagai project.
-                        Saya memiliki ketertarikan pada pengembangan frontend,
-                        backend, serta sistem berbasis web.
+                        Saya terus mengembangkan kemampuan melalui pembelajaran, eksplorasi teknologi,
+                        dan pengalaman mengerjakan berbagai project. Saya memiliki minat pada frontend,
+                        backend, dan sistem berbasis web, serta terbuka untuk terus belajar dan berkembang
+                        melalui pengalaman baru di dunia profesional.
                     </p>
 
                 </div>
