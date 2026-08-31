@@ -620,7 +620,9 @@
         <div class="mt-12">
 
             <a
-                href="mailto:putraandrian734@gmail.com"
+                href="https://mail.google.com/mail/?view=cm&fs=1&to=putraandrian734@gmail.com"
+                target="_blank"
+                rel="noopener noreferrer"
                 class="inline-flex items-center gap-3 text-lg text-white transition hover:text-zinc-400"
             >
                 Kirim pesan
